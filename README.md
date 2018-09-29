@@ -75,6 +75,5 @@ for k in range(1,10):
     
 
 ```
-
-
+[1] Sloan, R. (1996). Do Stock Prices Fully Reflect Information in Accruals and Cash Flows about Future Earnings? on JSTOR. [online] Jstor.org. Available at: https://www.jstor.org/stable/248290 [Accessed 29 Sep. 2018].
 
