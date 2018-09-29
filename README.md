@@ -13,18 +13,20 @@
  
 ---  
 ### 2. The model used
-* The first equation  
+* H1(1)  
 <p align="center">
   <img src="https://latex.codecogs.com/gif.latex?Earnings_{t-1}=\alpha_{0}&plus;\alpha_{1}\times&space;Earnings_{t}&plus;\varepsilon_t">
 </p> 
 This equation is used to examine whether the earnings have the persistence ability.  
   
-* The second equation  
+* H1(2)  
 <p align="center">
   <img src="https://latex.codecogs.com/gif.latex?Earnings_{t&plus;1}&space;=&space;\gamma_{0}&space;&plus;&space;\gamma_{1}&space;\times&space;Accruals_{t}&space;&plus;&space;\gamma_{2}&space;\times&space;Cash_{t}&plus;&space;\varepsilon_t">
 </p>  
 The equation breaks earnings in the first equation into apart, so that we can see which one of both accruals item and cash item is the attribution of the persistence of the earnings.
-
+  
+* H2(1)  
+  
 --- 
 ### Python code
 
