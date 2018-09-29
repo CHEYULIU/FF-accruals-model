@@ -4,21 +4,23 @@
 ---  
 ### 1. Hypothesis
 >* The first hypothesis  
->&#160;*There is persistence in current earnings performance.* 
->&#160;*Current earnings performance is less persistent if it is attributable to the accrual than to the cash flow.*
+>&#160;-*There is persistence in current earnings performance.*  
+>&#160;-*Current earnings performance is less persistent if it is attributable to the accrual than to the cash flow.*
 >* The second hypothesis
->&#160;*Stock prices anticipate the average persistance of earnings performance.*
->&#160;*The earnings rooted in stock prices fail to reveal the low persistence in earnings if it is attributable to high accrual and low cash flows and high persistence in earnings if it is attributable to low accrual and high cash flows.*
+>&#160;-*Stock prices anticipate the average persistance of earnings performance.*  
+>&#160;-*The earnings rooted in stock prices fail to reveal the low persistence in earnings if it is attributable to high accrual and low cash flows and high persistence in earnings if it is attributable to low accrual and high cash flows.*
 
  
 ---  
 ### 2. The model used
-* The first equation    
+* The first equation  
+
 ![](https://latex.codecogs.com/gif.latex?Earnings_{t-1}=\alpha_{0}&plus;\alpha_{1}\times&space;Earnings_{t}&plus;\varepsilon_t)  
 
 This equation is used to examine whether the earnings have the persistence ability.  
   
 * The second equation  
+
 ![](https://latex.codecogs.com/gif.latex?Earnings_{t&plus;1}&space;=&space;\gamma_{0}&space;&plus;&space;\gamma_{1}&space;\times&space;Accruals_{t}&space;&plus;&space;\gamma_{2}&space;\times&space;Cash_{t}&plus;&space;\varepsilon_t)  
 
 The equation breaks the ![](https://latex.codecogs.com/gif.latex?Earnings_t) in the first equation into apart, so that we can see which one of both accruals item and cash item is the attribution of the persistence of the earnings.
