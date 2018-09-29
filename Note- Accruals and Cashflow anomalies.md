@@ -13,12 +13,12 @@
 ---  
 ### 2. The model used
 * The first equation  
-$$Earnings_{t-1}=\alpha_{0}+\alpha_{1}\times Earnings_{t}+\varepsilon_t$$  
+$$ Earnings_{t-1}=\alpha_{0}+\alpha_{1}\times Earnings_{t}+\varepsilon_t $$  
 This equation is used to examine whether the earnings have the persistence ability.  
   
 * The second equation
-$$Earnings_{t+1} = \gamma_{0} + \gamma_{1} \times Accruals_{t} + \gamma_{2} \times Cash_{t}+ \varepsilon_t$$
-The equation breaks the $Earnings_t$ in the first equation into apart, so that we can see which one of both accruals item and cash item is the attribution of the persistence of the earnings.
+$$ Earnings_{t+1} = \gamma_{0} + \gamma_{1} \times Accruals_{t} + \gamma_{2} \times Cash_{t}+ \varepsilon_t $$
+The equation breaks the $ Earnings_t $ in the first equation into apart, so that we can see which one of both accruals item and cash item is the attribution of the persistence of the earnings.
 
 --- 
 ### Python code
