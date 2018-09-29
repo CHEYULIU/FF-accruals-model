@@ -22,7 +22,7 @@ The equation breaks the $Earnings_t$ in the first equation into apart, so that w
 
 --- 
 ### Python code
-<section>
+
 ```python
 from EmQuantAPI import *
 import pandas as pd
@@ -68,8 +68,6 @@ for k in range(1,10):
     
 
 ```
-</section>
- 
 
 
 
