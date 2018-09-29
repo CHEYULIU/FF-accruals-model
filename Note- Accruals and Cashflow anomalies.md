@@ -13,9 +13,7 @@
 ---  
 ### 2. The model used
 * The first equation  
-
-$$ Earnings_{t-1}=\alpha_{0}+\alpha_{1}\times Earnings_{t}+\varepsilon_t $$  
-
+$Earnings_{t-1}=\alpha_{0}+\alpha_{1}\times Earnings_{t}+\varepsilon_t$  
 This equation is used to examine whether the earnings have the persistence ability.  
   
 * The second equation
