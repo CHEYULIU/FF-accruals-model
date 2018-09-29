@@ -3,11 +3,11 @@
 ---  
 ### 1. Hypothesis
 >* The first hypothesis  
->  - *There is persistence in current earnings performance.* 
->  - *Current earnings performance is less persistent if it is attributable to the accrual than to the cash flow.*
->* The second hypothesis
->  - *Stock prices anticipate the average persistance of earnings performance.*
->  - *The earnings rooted in stock prices fail to reveal the low persistence in earnings if it is attributable to high accrual and low cash flows and high persistence in earnings if it is attributable to low accrual and high cash flows.*
+ - *There is persistence in current earnings performance.* 
+ - *Current earnings performance is less persistent if it is attributable to the accrual than to the cash flow.*
+* The second hypothesis
+ - *Stock prices anticipate the average persistance of earnings performance.*
+ - *The earnings rooted in stock prices fail to reveal the low persistence in earnings if it is attributable to high accrual and low cash flows and high persistence in earnings if it is attributable to low accrual and high cash flows.*
 
  
 ---  
