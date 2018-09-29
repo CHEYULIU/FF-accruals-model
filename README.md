@@ -23,7 +23,7 @@ This equation is used to examine whether the earnings have the persistence abili
 <p align="center">
   <img src="https://latex.codecogs.com/gif.latex?Earnings_{t&plus;1}&space;=&space;\gamma_{0}&space;&plus;&space;\gamma_{1}&space;\times&space;Accruals_{t}&space;&plus;&space;\gamma_{2}&space;\times&space;Cash_{t}&plus;&space;\varepsilon_t">
 </p>  
-The equation breaks the ![](https://latex.codecogs.com/gif.latex?Earnings_t) in the first equation into apart, so that we can see which one of both accruals item and cash item is the attribution of the persistence of the earnings.
+The equation breaks earnings in the first equation into apart, so that we can see which one of both accruals item and cash item is the attribution of the persistence of the earnings.
 
 --- 
 ### Python code
