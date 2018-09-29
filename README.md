@@ -4,7 +4,7 @@
 ---  
 ### 1. Hypothesis
 >* The first hypothesis  
->&#160;1. *There is persistence in current earnings performance.*  
+>  * *There is persistence in current earnings performance.*  
 >&#160;2. *Current earnings performance is less persistent if it is attributable to the accrual than to the cash flow.*
 >* The second hypothesis  
 >&#160;1. *Stock prices anticipate the average persistance of earnings performance.*  
