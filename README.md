@@ -1,5 +1,5 @@
 # FF-accruals-model
-## Note: Accruals and Cashflow anomalies
+Note: Accruals and Cashflow anomalies
 
 ---  
 ### 1. Hypothesis
@@ -28,7 +28,7 @@ The equation breaks earnings in the first equation into apart, so that we can se
 * H2(1)  
   
 --- 
-### Python code
+### Python code (part)
 
 ```python
 from EmQuantAPI import *
@@ -76,5 +76,9 @@ for k in range(1,10):
 
 ```
 ### References
-[1] Sloan, R. (1996). Do Stock Prices Fully Reflect Information in Accruals and Cash Flows about Future Earnings? on JSTOR. [online] Jstor.org. Available at: https://www.jstor.org/stable/248290 [Accessed 29 Sep. 2018].
+[1] Sloan, R. (1996). Do Stock Prices Fully Reflect Information in Accruals and Cash Flows about Future Earnings? on JSTOR. [online] Jstor.org. Available at: https://www.jstor.org/stable/248290 [Accessed 29 Sep. 2018].  
+
+[2] Kaufman, R. and Mishkin, F. (1983). A Rational Expectations Approach to Macroeconometrics: Testing Policy Ineffectiveness and Efficient-Markets Models. Journal of Money, Credit and Banking, 16(3), p.396.  
+
+[3] Parke, William R. “An Algorithm for FIML and 3SLS Estimation of Large Nonlinear Models.” Econometrica, vol. 50, no. 1, 1982, pp. 81–95. JSTOR, JSTOR, www.jstor.org/stable/1912530.
 
